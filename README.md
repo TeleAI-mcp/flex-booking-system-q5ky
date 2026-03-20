@@ -1,2 +1,3 @@
-# flex-booking-system-q5ky
+# Flex Booking System Q5Ky
+
 A repository to test GitHub automation for issue management.
